@@ -4,12 +4,15 @@
 We team3 have developed a web app/prototype that basically connects to shops/online vendors/retailers, who can list thier product with simple scan or manually fill up the product details with expiry dates, those products are monitored by our server and notifies the product owner which are being expired within next 48 hours(This time can be updated as per need) automatically.
 
 ** Product Idea **
+
 Gather surplus stock statistics to find out the less sold items and determine which items quantity should be minimized for transportation for which area or try to minimize the production all together (if they are being unused & expired).
 
 ** Context of lessening carbon emission **
+
 - using the same process to lessen food wastage on areas where a particular category of food isn't popular but is oversupplied.
 
 ** Product will be extended futher on: **
+
 1. Product analytics to product owner and manufracturers.
 2. Expired product analysis based on location and notification to city office (waste manager), or expired food processors for futher recycling and management: 
    a) This will be API as a service for city and other businesses.
